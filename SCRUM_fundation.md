@@ -11,7 +11,14 @@ Exam Preparation for SCRUM fundation certification
 
 # 2. Scrum Practices (45%)
 ## Scrum roles
+The Scrum team consists of a product owner, the deployment team, and a scrum master. Scrum teams are self-organizing and cross-functional. 
+
 ### Explain the Product Owner role
+The PO is responsible for maximizing the value of the product and the work of development team. The PO is one person, not a committee. The PO may represent the desire of a committee in the product backlog. The PO is the sole person responsible for managing the product backlog: changing the product backlog and the item's priority.
+
+For the PO to succeed, the entire organization must respect his or her decisions, which are visible in the content and ordering of the product backlog.
+
+
 ### Explain the Scrum Master role
 ### Explain the Development Team role
 ### Recognize the role of a traditional Project Manager
