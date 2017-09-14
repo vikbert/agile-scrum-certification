@@ -14,18 +14,23 @@ Exam Preparation for SCRUM fundation certification
 The Scrum team consists of a product owner, the development team, and a scrum master. Scrum teams are self-organizing and cross-functional. 
 
 ### Explain the Product Owner role
-The Role "Product Owner" belongs to one person, who is responsible for maximizing the value of the product and the work of development team. 
+- The Role "Product Owner" belongs to one person, who is responsible for maximizing the value of the product and the work of development team. 
 
-The PO is one person from the performing organization, who may represent the desire of a committee. 
+- The PO is one person from the performing organization, who may represent the desire of a committee. 
 
-The PO is responsible for managing the product backlog: changing the product backlog and the item's priority. Product Owners should communicate effectively with the customers and use the information to keep the Product Backlog updated with all the changes.
+- The PO is responsible for managing the product backlog: changing the product backlog and the item's priority. Product Owners should communicate effectively with the customers and use the information to keep the Product Backlog updated with all the changes.
 
-Product Owners measure the performance of the project, forecast the completion date, and make this information transparent to all stakeholders.
+- Product Owners measure the performance of the project, forecast the completion date, and make this information transparent to all stakeholders.
 
-The entire organization must respect the PO's decisions for the project to be successful.
+- The entire organization must respect the PO's decisions for the project to be successful.
 
 
 ### Explain the Scrum Master role
+- Scrum Masters are those who fully understand Scrum, and help the Scrum Team by coaching them, and ensuring that all scrum processes are implemented correctly. 
+- Scrum Master is a servant-leader for the Scrum team, who removes impediments to the Development Team and helps both Development team and product owner.
+- Scrum Master should also help those outside the scrum team understand the appropriate interactions with Scrum Team in order to maximize the business value.
+- Most of internal and external communications about the Scrum process are done by Scrum Master.
+
 ### Explain the Development Team role
 The development team(DT) consists of professionals who do the work of delivering a potentially releasable Increment of "Done" product at the end of each Sprint.
 
