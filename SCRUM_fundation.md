@@ -32,7 +32,7 @@ The Scrum team consists of a product owner, the development team, and a scrum ma
 - Most of internal and external communications about the Scrum process are done by Scrum Master.
 
 ### Explain the Development Team role
-The development team(DT) consists of professionals who do the work of delivering a potentially releasable Increment of "Done" product at the end of each Sprint.
+Members of the Development team are application area experts who are responsible for delivering backlog items, and managing their own efforts. They should be cross-funktional and self-organized. They should be aligned with the goal of the project and deliver the final product of the project in step by step Increments. Scrum is mostly effective when there are 3 to 9 Development Team members.
 
 ### Recognize the role of a traditional Project Manager
 
