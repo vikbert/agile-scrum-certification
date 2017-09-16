@@ -34,7 +34,9 @@ The Scrum team consists of a product owner, the development team, and a scrum ma
 ### Explain the Development Team role
 Members of the Development team are application area experts who are responsible for delivering backlog items, and managing their own efforts. They should be cross-funktional and self-organized. They should be aligned with the goal of the project and deliver the final product of the project in step by step Increments. Scrum is mostly effective when there are 3 to 9 Development Team members.
 
+
 ### Recognize the role of a traditional Project Manager
+There is no such role "Project Manager" in Scrum and none of the three roles of Scrum act as a traditional Project Manager. In fact, the project management responsibilities are distributed among the three roles of Scrum and there is no centralized project management in Scrum.
 
 ## Scrum events
 ### Explain the characteristics of time-boxed events
