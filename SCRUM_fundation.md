@@ -139,8 +139,10 @@ The Definition of Done is a concept that contains all the things we should do or
 
 
 # 3. Scrum Planning and Estimation (22.5%)
-### Explain what happens during Sprint Planning meetings
+### Explain `what happens` during Sprint Planning meetings
+The Sprint Planning is the first event inside a Sprint. The Scrum Team plans the items(PBIs) they are going to deliver in the Sprint and the way they will deliver them. It is timeboxed and fixed to 8 hours for one-month sprint. All three roles should attend this meeting.
 
+First of all, the Development Team should estimate the entire capacity of work it can deliver in a single Sprint. Then the Development Team selects a number of items from the top of the Product Backlog, and puts them in the Sprint Backlog. The total amount of work of the selected Product Backlog items is close to the estimated capacity of the Development Team. Following the selection of the items, the Scrum Team should draft a Sprint Goal. A detailed plan is a breakdown of a Product Backlog item into detailed tasks which needs to be done in order to create the item.
 
 ### Understand the rituals and the importance of the Daily Scrum
 
