@@ -127,7 +127,15 @@ Product Backlog refinement is the act of adding detail, estimates, and order to 
 ## Definition of Done
 ### Explain the importance of a good Definition of Done
 
-The Definition of Done is a concept that contains all the things we should do or consider for every user story. The development processes, quality critiera, coding standards, and non-funcitonal features are all parts of the Definition of Done. The Definition of Done must be discussed and agreed upon by the Scrum Team at the beginning of the project so that future Increments can releasable.
+The Definition of Done is a concept that contains all the things we should do or consider for every user story. The development processes, quality critiera, coding standards, and non-funcitonal features are all parts of the Definition of Done. The Definition of Done must be discussed and agreed upon by the Scrum Team at the beginning of the project, because of the following importance of a good DoD:
+
+
+- A good DoD will minimize the delay of risk
+- A good DoD represents the agility, quality and maturity of the Development Team
+- A good DoD will help with getting feedback and improving the product and processes
+- A good DoD improves the release planning
+- A good DoD gives burn-down charts sense.
+- A good DoD creates the transparency for the stakeholders
 
 
 # 3. Scrum Planning and Estimation (22.5%)
