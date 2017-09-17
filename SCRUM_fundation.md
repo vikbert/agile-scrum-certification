@@ -50,31 +50,32 @@ Each scrum project delivers the product in a number of iterations, which are cal
 
 - An Increment is developed in each sprint and this increment keeps getting bigger after each Sprint and is potentially releasable part of the final project.
 - Sprint is a timeboxed event and is always fixed at one month or less.
-- The items of the `sprint backlog` should not be changed, after the sprint is started
-- Each items in the `Product Backlog` shoulod normally be developed in a single sprint.
-- A 99% completed item is not considered as `Done` in a sprint and would not be part of the increment delivered by the current sprint and would not be demonstrated to the customer at the Sprint review.
+- The items of the `Sprint Backlog` should not be changed, after the sprint is started
+- Each item in the `Product Backlog` shoulod normally be developed in a single sprint.
+- A 99% completed item is not considered as `Done` in a sprint and would not be part of the increment delivered by the current sprint and would not be demonstrated to the customers at the `Sprint Review`.
 - A sprint is cancelable by Product Owner, when the sprint goal becomes obsolete.
 - There is no such things as `Sprint 0`, and there is no difference between the first sprint and the rest of sprints.
 
 
 ### Explain the characteristics of the Daily Scrum
 
-- Daily Scrum is normally a 15-minute meeting for the Development Team
+- `Daily Scrum` is normally a `15-minute` meeting for the Development Team
 - It must be held on a daily basis, and at the same time and same place throughout the current Sprint
-- Each member of the Develop Team should answer the three questions in Daily Scrum: (1) what has been done since the last meeting (2) What will be done before the next meeting (3) what obstacles are in the way
+- Each member of the Develop Team should answer the `three` questions in Daily Scrum: 
+**(1)** what has been done since the last meeting **(2)** What will be done before the next meeting **(3)** what obstacles are in the way
 - Daily Scrum is just a Meeting for Development Team
-- Development Team should monitor Sprint progress each day.
+- The Development Team should monitor Sprint progress each day.
 
 
 ### Explain the characteristics of the Sprint Review 
-At the end of the sprint, the Scrum team and the other stakeholders gather and hold a meeting to present and insepect the `Done` items from the current sprint. Such meeting is called `Sprint Review`.
+At the end of the sprint, the Scrum Team and the other stakeholders gather and hold a meeting to present and insepect the `Done` items from the current sprint. Such meeting is called `Sprint Review`.
 Sprint review has the following characteristics:
 
-- Sprint Review must be timeboxed, normally 4 hours for a one-month sprint, i.e. 2 hours for a two-week sprint
+- The Sprint Review must be timeboxed, normally `4 hours for a one-month sprint`, i.e. 2 hours for a two-week sprint
 - The presentation of the Increment in this meeting is intended to collect feedback and raise the change requests as soon as possible.
-- Ohly the items which are 100% completed should be presented and explained in sprint review. Any item that is not `Done`, will go back to the product backlog and the Product Owner will order it again.
+- Ohly the items which are 100% completed should be presented and explained in sprint review. Any item that is not `Done`, will go back to the Product Backlog and the Product Owner will order it again.
 - the Product Owner should discuss the status of the Product Backlog and the likely completion dates based on the progress, if possible.
-- the whole scrum team collaborates on revising the product backlog based on the output of the sprint, and the feedback received from the customer.
+- the whole Scrum Team collaborates on revising the Product Backlog based on the output of the sprint, and the feedback received from the customers.
 
 ### Explain the characteristics of the Sprint Retrospective
 After the spring review and just before the end of the sprint, another meeting will be held, aimed at process improvement, which is called `Sprint Retrospective`.
