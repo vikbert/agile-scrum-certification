@@ -140,8 +140,14 @@ The Definition of Done is a concept that contains all the things we should do or
 
 # 3. Scrum Planning and Estimation (22.5%)
 ### Explain what happens during Sprint Planning meetings
+
+
 ### Understand the rituals and the importance of the Daily Scrum
+
+
 ### Understand how to determine the duration of a Sprint
+
+
 
 ## Scrum Estimation
 ### Explain estimation techniques: Planning Poker, Triangulation and Affinity Estimation
