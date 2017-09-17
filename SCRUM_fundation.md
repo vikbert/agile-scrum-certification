@@ -115,6 +115,15 @@ A good user story should be able to follow the guidline named `INVEST`:
 
 ### Explain how to refine the Product Backlog Items
 
+Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items. Refinement usually consumes no more than 10% of the capacity of the Development Team.
+
+- Organize the Backlog Refinement as a meeting with agenda for the Scrum Team
+- The Product Owner introduce the PBIs, which are ordered based on their business values.
+- Then the Development Team discuss the top items on the Product Backlog, so that the items are clear for everybody and is ready to be estimated by the Development Team.
+- The Scrum Team should spend time grooming the `epic user stories` by turning them into multiple smaller, yet independent user stories.
+- The Development Team estimate the user stories by setting a reference for the story points. The Development Team can re-estimate them to fix the previous misunderstanding or to reflect the newly increased knowledge of the product.
+
+
 ## Definition of Done
 ### Explain the importance of a good Definition of Done
 
