@@ -101,6 +101,18 @@ After the spring review and just before the end of the sprint, another meeting w
 `Sprint Backlog` is an ordered list of selected items from the Product Backlog to be delievered through a Sprint, along with the Sprint Goal and plans for delivering the items and realizing the Spring Goal.
 
 ### Recognize good User Stories and Backlog Items
+The most common type of Backlog items is user stories, which must be non-technical, and independent.
+They should have such format: as a [role], I want to do [something], in order to [purpose].
+
+A good user story should be able to follow the guidline named `INVEST`:
+- Independent: if the items are not independent, you are not able to order them based on their business values.
+- Negotiable: The user stories are also communication tools
+- Valuable: this value is the basis for ordering the items in Backlog
+- estimate-able: We only have to have reliable estimates for the items at the top of the Product Backlog.
+- Small: Only the items at the top of the Product Backlog have to be small; it is OK for the rest of them to be big or even unclear.
+- Testable: testing is always a part of the Defintion of Done.
+
+
 ### Explain how to refine the Product Backlog Items
 
 ## Definition of Done
