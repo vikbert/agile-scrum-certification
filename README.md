@@ -6,12 +6,19 @@ This note was used for a preparation of certification exams of `Scrum Fundation`
 
 `EXIN Agile Scrum Foundation` shows a candidate’s knowledge of the Agile and Scrum frameworks.Agile Scrum is about working together to successfully reach the goal. Agile methodologies are popular approaches in software development and are increasingly being used in other areas. Scrum practices include establishing cross-functional and self-managing teams, producing a working increment of software at the end of each iteration or Sprint.
 
+[Link to Note for FUNDATION EXAM](https://github.com/vikbert/agile-scrum-certification/blob/master/SCRUM_fundation.md)
+
+
 ## EXIN Agile Scrum Product Owner
+
+
+[Link to Note for PRODUCT OWNER EXAM](https://github.com/vikbert/agile-scrum-certification/blob/master/SCRUM_fundation.md)
 
 
 ## EXIN Agile Scrum Master
 
 
+[Link to Note for SCRUM MASTER EXAM](https://github.com/vikbert/agile-scrum-certification/blob/master/SCRUM_fundation.md)
 
 
 ## References:
