@@ -144,10 +144,16 @@ The Sprint Planning is the first event inside a Sprint. The Scrum Team plans the
 
 First of all, the Development Team should estimate the entire capacity of work it can deliver in a single Sprint. Then the Development Team selects a number of items from the top of the Product Backlog, and puts them in the Sprint Backlog. The total amount of work of the selected Product Backlog items is close to the estimated capacity of the Development Team. Following the selection of the items, the Scrum Team should draft a Sprint Goal. A detailed plan is a breakdown of a Product Backlog item into detailed tasks which needs to be done in order to create the item.
 
+The Sprint Backlog will be ready at the end of Sprint Planning, and the Development Team should be able to describe what items they will deliver through the Sprint, and how they will do it.
+
 ### Understand the rituals and the importance of the Daily Scrum
 
 
+
 ### Understand how to determine the duration of a Sprint
+The Sprints should be timeboxed and fixed to one month or less. Sprints should not be `too short`, because we do not want to split a single Product Backlog item across several Sprints; Sprint should not be `too long`, because it is likely that the unapplied changes will become large enough to create problems. This will increase the complexity and risk.
+
+Another important point about setting the duration of the Sprints is the Amount of adaptation needed for this project. A project with two-week Sprints receives almost twice as much feedback and opportunities for adaptation as project with four-week Sprints.
 
 
 
