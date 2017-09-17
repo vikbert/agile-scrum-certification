@@ -80,11 +80,26 @@ Sprint review has the following characteristics:
 ### Explain the characteristics of the Sprint Retrospective
 After the spring review and just before the end of the sprint, another meeting will be held, aimed at process improvement, which is called `Sprint Retrospective`.
 
-- It is normally three hours for one-month sprint, i.e. 1.5 hour for two-weeks sprint.
+- It is normally `three hours for one-month sprint`, i.e. 1.5 hour for two-weeks sprint.
 - The Scrum Team should always look for the ways to improve, with regard to people, relationships, processes, and tools, and identify ways of improving them in the next Sprint.
 
 ## The importance of the Backlog
 ### Explain the characteristics of a good Product and Sprint Backlog
+
+`Product Backlog` is an ordered list of everything(usually user stories) that might be needed in the final product. A good Product Backlog has the following characteristics:
+
+- `easy understandable`: The items of the Product Backlog are described in simple, non-technical, business language, and are easy to understand for non-technical stakeholders.
+- `presentable`: they are presentable to very stakeholder
+- `dynamical`: The Product Backlog is dynnamically changing and improving and it is never complete.
+- `ordered by business value`: The Product Backlog items will be ordered based on their `business value`. The items located at the top of the Product Backlog that have higher business value, will be delivered earlier.
+- `estimated`: Each Product Backlog item has a work estimate, which is done by the Development Team.
+- `refined by Scrum Team` The Scrum Team should add details, estimates, and order to the Product Backlog items all the way through the project, which is called `Product Backlog Grooming`. It should not consume more than 10% of the time of the Development Team.
+- `based on dicussion`: The Product Backlog is created based on discussion rather than documentation.
+- `single Product Backlog only`: There should be only one Product Backlog, no matter how many Scrum Teams are working on the project.
+
+
+`Sprint Backlog` is an ordered list of selected items from the Product Backlog to be delievered through a Sprint, along with the Sprint Goal and plans for delivering the items and realizing the Spring Goal.
+
 ### Recognize good User Stories and Backlog Items
 ### Explain how to refine the Product Backlog Items
 
