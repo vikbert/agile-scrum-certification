@@ -148,12 +148,19 @@ The Sprint Backlog will be ready at the end of Sprint Planning, and the Developm
 
 ### Understand the rituals and the importance of the Daily Scrum
 
-
+- `Daily Scrum` is normally a `15-minute` meeting for the Development Team
+- It must be held on a daily basis, and at the same time and same place throughout the current Sprint
+- Each member of the Develop Team should answer the `three` questions in Daily Scrum: 
+**(1)** what has been done since the last meeting **(2)** What will be done before the next meeting **(3)** what obstacles are in the way
+- Daily Scrum is just a Meeting for Development Team
+- The Development Team should monitor Sprint progress each day.
 
 ### Understand how to determine the duration of a Sprint
 The Sprints should be timeboxed and fixed to one month or less. Sprints should not be `too short`, because we do not want to split a single Product Backlog item across several Sprints; Sprint should not be `too long`, because it is likely that the unapplied changes will become large enough to create problems. This will increase the complexity and risk.
 
 Another important point about setting the duration of the Sprints is the Amount of adaptation needed for this project. A project with two-week Sprints receives almost twice as much feedback and opportunities for adaptation as project with four-week Sprints.
+
+Canceling Sprints can happen, when the Sprint Goal becomes obsolete. due to changes in the Product Backlog, strategies, approach, etc.
 
 
 
